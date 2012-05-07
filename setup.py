@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.TijmenvandenBrink.JuniperIVE'
 VERSION = '1.0'
 AUTHOR = 'Tijmen van den Brink'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.TijmenvandenBrink']
 PACKAGES = ['ZenPacks', 'ZenPacks.TijmenvandenBrink', 'ZenPacks.TijmenvandenBrink.JuniperIVE']
 INSTALL_REQUIRES = []
